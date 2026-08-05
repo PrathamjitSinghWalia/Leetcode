@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
@@ -26,5 +27,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
