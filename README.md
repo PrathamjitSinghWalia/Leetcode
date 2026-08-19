@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0015-3sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
