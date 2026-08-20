@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
