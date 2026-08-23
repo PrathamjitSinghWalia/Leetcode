@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1922-count-good-numbers) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0509-fibonacci-number) |
