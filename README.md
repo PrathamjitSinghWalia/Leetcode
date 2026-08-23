@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1922-count-good-numbers) |
 ## Linked List
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
