@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0860-lemonade-change](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0860-lemonade-change) |
 ## Quickselect
 |  |
 | ------- |
