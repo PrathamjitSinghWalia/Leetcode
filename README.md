@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0796-rotate-string) |
 ## Trie
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -238,12 +240,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0860-lemonade-change) |
 ## Quickselect
 |  |
@@ -279,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
