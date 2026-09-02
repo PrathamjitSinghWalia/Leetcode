@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/1922-count-good-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
 | ------- |
