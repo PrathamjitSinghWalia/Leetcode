@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PrathamjitSinghWalia/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Data Stream
 |  |
 | ------- |
