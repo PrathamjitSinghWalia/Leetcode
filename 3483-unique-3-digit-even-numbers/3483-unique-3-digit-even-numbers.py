@@ -1,8 +1,6 @@
 class Solution:
     def totalNumbers(self, digits: List[int]) -> int:
-        f=0
-        s=0
-        t=0
+ 
         result=set()
         for i in range(len(digits)):
             if digits[i]==0:
